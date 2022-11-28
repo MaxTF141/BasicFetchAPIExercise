@@ -1,0 +1,34 @@
+{
+    "laptop":[
+        {
+            "id":1,
+            "brand":"Lenovo",
+            "serialNumber": "PF123G12",
+            "userName": "Cp.Price"
+        },
+        {
+            "id":2,
+            "brand":"Lenovo",
+            "serialNumber": "PF321G21",
+            "userName": "Ghost"
+        },
+        {
+            "id":3,
+            "brand":"Lenovo",
+            "serialNumber": "PF456G45",
+            "userName": "Soap"
+        },
+        {
+            "id":4,
+            "brand":"Lenovo",
+            "serialNumber": "PF654G65",
+            "userName": "Roach"
+        },
+        {
+            "id":5,
+            "brand":"Lenovo",
+            "serialNumber": "PF789G87",
+            "userName": "Gaz"
+        }
+    ]
+}
